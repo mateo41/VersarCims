@@ -1,0 +1,26 @@
+Backing up 'web.config' to '\_93upgradebackup
+Added 'esri' tagPrefix to web.config.
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.ADF.Web.DataSources' in 'web.config'
+Updating assembly reference 'ESRI.ArcGIS.Geometry' in 'web.config'
+Adding file 'JavaScript\WebMapApp.js'
+Upgrading Identify tool...
+Adding file 'JavaScript\MapIdentify.js'
+Adding file 'images\callbackActivityIndicator2.gif'
+Upgrading Measure tool...
+Adding file 'JavaScript\display_measure.js'
+Adding file 'images\crosshair.png'
+Adding file 'images\dropdown-button.png'
+Adding file 'images\dismiss_solid.png'
+Adding file 'images\collapse.gif'
+Adding file 'images\expand.gif'
+Adding file 'images\dismiss.png'
+9.3 upgrade complete.
+Backing up 'default.aspx' to '\_93upgradebackup
+Update version number in Default.aspx and Web.config.
+Removing ArcWeb Services.
+Removing FindPlace task.
+updating for 64 bit support.
+updating PageLayout.
+update ESRI.ArcGIS.ADF and ArcGISServer Converter to Local.Converter in .cs and .vb files.
+10.0 upgrade complete.
