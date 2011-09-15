@@ -36,7 +36,7 @@ namespace WebMapApp
         protected void Button1_Click(object sender, EventArgs e)
         {
             String param = this.DropDownList1.SelectedValue;
-            SqlConnection conn = new SqlConnection("server=KYLE;database=cbeo_benthic;User ID=cbeo;Password=w0rkfl0w;");
+            SqlConnection conn = new SqlConnection("server=KYLE;database=cbeo_benthic;User ID=cbeo;Password=NiceTry:);");
             conn.Open();
             String meters = this.TextBox1.Text;
             String days = this.TextBox2.Text;
